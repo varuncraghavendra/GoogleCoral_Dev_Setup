@@ -22,7 +22,9 @@ Link : https://github.com/tensorflow/tpu/tree/master/models/official/efficientne
 #### Credits for the Documentation : 
 
 Naman Menezes
+
 Varun Raghavendra
+
 Sumant Gunagi
 
 
