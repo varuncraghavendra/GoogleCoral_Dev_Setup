@@ -19,8 +19,11 @@ Link : https://colab.research.google.com/github/google-coral/tutorials/blob/mast
 Link : https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet/edgetpu
 
 
-Credits for the Documentation : 
+#### Credits for the Documentation : 
+
 Naman Menezes
+Varun Raghavendra
+Sumant Gunagi
 
 
 
