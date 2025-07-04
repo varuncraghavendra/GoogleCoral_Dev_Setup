@@ -6,4 +6,7 @@ https://colab.research.google.com/github/google-coral/tutorials/blob/master/retr
 https://coral.ai/docs/edgetpu/retrain-classification/
 https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet/edgetpu
 https://ai.googleblog.com/2019/08/efficientnet-edgetpu-creating.html
+
+### Official Website of the Coral Dev Board
+
 https://coral.ai/products/dev-board/
